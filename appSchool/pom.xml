@@ -8,11 +8,11 @@
         <version>3.2.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.github.odyn666</groupId>
+    <groupId>com.github.aksel</groupId>
     <artifactId>appSchool</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>appStudnet</name>
-    <description>appStudnet</description>
+    <name>appSchool</name>
+    <description>appSchool</description>
     <properties>
         <java.version>21</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>

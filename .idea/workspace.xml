@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="063b9b0b-aaf7-4841-a470-43acb0828101" name="Changes" comment="Lesson Updating with handling LessonNotFoundException" />
+    <list default="true" id="063b9b0b-aaf7-4841-a470-43acb0828101" name="Changes" comment="DrivingSchool">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appSchool/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/appSchool/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appSchool/src/test/java/com/github/aksel/appSchool/service/TrainerServiceDiffblueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/appSchool/src/test/java/com/github/aksel/appSchool/service/TrainerServiceDiffblueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appSchool/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/appSchool/target/classes/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,8 +76,11 @@
     "JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus.executor": "Run",
     "Maven.appAuth [clean].executor": "Run",
     "Maven.appSchool [clean].executor": "Run",
+    "Maven.appSchool [install].executor": "Run",
+    "Maven.appSchool [validate].executor": "Run",
     "Maven.appStudnet [clean].executor": "Run",
     "Maven.appTextMessages [clean].executor": "Run",
+    "Maven.appTextMessages [verify].executor": "Run",
     "Maven.eurekaServer [clean].executor": "Run",
     "Maven.smsTest [clean].executor": "Run",
     "Maven.zappSpareMicroServiceWaitingForItMoment [clean].executor": "Run",
@@ -79,6 +90,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.AppAuthApplication.executor": "Run",
     "Spring Boot.AppSchoolApplication (1).executor": "Run",
     "Spring Boot.AppSchoolApplication.executor": "Run",
@@ -86,10 +98,10 @@
     "Spring Boot.AppTrainerApplication.executor": "Run",
     "Spring Boot.EurekaServerApplication.executor": "Run",
     "Spring Boot.SmsTestApplication.executor": "Run",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SDA/Projekt-Koncowy/DrivingSchoolMenagmetSystem/appSchool",
+    "last_opened_file_path": "D:/SDA/Projekt-Koncowy/DrivingSchoolMenagmetSystem Backup",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -138,7 +150,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AppSchoolApplication (1)">
+  <component name="RunManager" selected="Spring Boot.AppSchoolApplication">
     <configuration name="TrainerServiceDiffblueTest.testGetTrainerByStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="appSchool" />
       <extension name="coverage">
@@ -195,11 +207,9 @@
       <item itemvalue="Spring Boot.AppSchoolApplication" />
       <item itemvalue="Spring Boot.SmsTestApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.AppSchoolApplication (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.AppSchoolApplication (1)" />
         <item itemvalue="JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus" />
         <item itemvalue="JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus" />
       </list>
@@ -234,23 +244,8 @@
       <workItem from="1712677796858" duration="1137000" />
       <workItem from="1713284817617" duration="24000" />
       <workItem from="1713382172464" duration="867000" />
-      <workItem from="1713383050696" duration="515000" />
-    </task>
-    <task id="LOCAL-00018" summary="some more dummy data">
-      <option name="closed" value="true" />
-      <created>1710964679316</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1710964679316</updated>
-    </task>
-    <task id="LOCAL-00019" summary="comment to cars">
-      <option name="closed" value="true" />
-      <created>1710965247305</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1710965247305</updated>
+      <workItem from="1713383050696" duration="1259000" />
+      <workItem from="1713384321420" duration="298000" />
     </task>
     <task id="LOCAL-00020" summary="comment to cars">
       <option name="closed" value="true" />
@@ -628,7 +623,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712255597522</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="DrivingSchool">
+      <option name="closed" value="true" />
+      <created>1713383773214</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1713383773215</updated>
+    </task>
+    <task id="LOCAL-00068" summary="DrivingSchool">
+      <option name="closed" value="true" />
+      <created>1713383842195</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1713383842195</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -658,7 +669,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HotFix 1" />
     <MESSAGE value="feign client set for TrainerRepository" />
     <MESSAGE value="added field PKK_NUMBER to student entity" />
     <MESSAGE value="TrainerEntityDto update" />
@@ -683,6 +693,7 @@
     <MESSAGE value="car service" />
     <MESSAGE value="LessonEntityDto added to fix lesson requesting response problem" />
     <MESSAGE value="Lesson Updating with handling LessonNotFoundException" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson Updating with handling LessonNotFoundException" />
+    <MESSAGE value="DrivingSchool" />
+    <option name="LAST_COMMIT_MESSAGE" value="DrivingSchool" />
   </component>
 </project>
