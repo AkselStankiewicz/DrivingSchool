@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="063b9b0b-aaf7-4841-a470-43acb0828101" name="Changes" comment="Lesson Updating with handling LessonNotFoundException" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="car_service" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AkselStankiewicz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fd269806-f910-4916-b77c-303c0669447b" />
+        <option name="url" value="https://github.com/odyn666/DrivingSchoolMenagmetSystem" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dvAI90YCFfeqWwvD3tyUcZXjFh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus.executor": "Run",
+    "Maven.appAuth [clean].executor": "Run",
+    "Maven.appSchool [clean].executor": "Run",
+    "Maven.appStudnet [clean].executor": "Run",
+    "Maven.appTextMessages [clean].executor": "Run",
+    "Maven.eurekaServer [clean].executor": "Run",
+    "Maven.smsTest [clean].executor": "Run",
+    "Maven.zappSpareMicroServiceWaitingForItMoment [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AppAuthApplication.executor": "Run",
+    "Spring Boot.AppSchoolApplication (1).executor": "Run",
+    "Spring Boot.AppSchoolApplication.executor": "Run",
+    "Spring Boot.AppStudnetApplication.executor": "Run",
+    "Spring Boot.AppTrainerApplication.executor": "Run",
+    "Spring Boot.EurekaServerApplication.executor": "Run",
+    "Spring Boot.SmsTestApplication.executor": "Run",
+    "git-widget-placeholder": "develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SDA/Projekt-Koncowy/DrivingSchoolMenagmetSystem/appSchool",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/Change SQL Dialect": [
+      "H2"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.github.odyn666.appSchool.exception.exceptions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SDA\Projekt-Koncowy\DrivingSchoolMenagmetSystem\appSchool\src\main\java\com\github\odyn666\appstudnet\mapper" />
+      <recent name="D:\SDA\Projekt-Koncowy\DrivingSchoolMenagmetSystem\appTrainer\src\main\java\com\github\odyn666\apptrainer" />
+      <recent name="D:\SDA\Projekt-Koncowy\DrivingSchoolMenagmetSystem\appTrainer\src\main\resources" />
+      <recent name="D:\SDA\Projekt-Koncowy\DrivingSchoolMenagmetSystem\appAuth\src\main\resources" />
+      <recent name="D:\SDA\Projekt-Koncowy\DrivingSchoolMenagmetSystem\appStudnet\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.odyn666.appSchool.exception.exceptions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AppSchoolApplication (1)">
+    <configuration name="TrainerServiceDiffblueTest.testGetTrainerByStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="appSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.aksel.appSchool.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.odyn666.appSchool.service" />
+      <option name="MAIN_CLASS_NAME" value="com.github.aksel.appSchool.service.TrainerServiceDiffblueTest" />
+      <option name="METHOD_NAME" value="testGetTrainerByStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="test" />
+      <module name="appSchool" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.aksel.appSchool.AppSchoolApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="appSchool" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.aksel.appSchool.AppSchoolApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.aksel.appSchool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.aksel.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="appTextMessages" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sda.projkonc.smstest.SmsTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus" />
+      <item itemvalue="Spring Boot.AppSchoolApplication" />
+      <item itemvalue="Spring Boot.SmsTestApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.AppSchoolApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AppSchoolApplication (1)" />
+        <item itemvalue="JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus" />
+        <item itemvalue="JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="063b9b0b-aaf7-4841-a470-43acb0828101" name="Changes" comment="" />
+      <created>1710878097007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710878097007</updated>
+      <workItem from="1710878097995" duration="607000" />
+      <workItem from="1710952704061" duration="1445000" />
+      <workItem from="1710954161357" duration="10153000" />
+      <workItem from="1711038862204" duration="10515000" />
+      <workItem from="1711049891096" duration="755000" />
+      <workItem from="1711383667730" duration="5580000" />
+      <workItem from="1711470567573" duration="11496000" />
+      <workItem from="1712158321065" duration="11360000" />
+      <workItem from="1712171158413" duration="307000" />
+      <workItem from="1712244582486" duration="11432000" />
+      <workItem from="1712677796858" duration="1137000" />
+      <workItem from="1713284817617" duration="24000" />
+      <workItem from="1713382172464" duration="867000" />
+      <workItem from="1713383050696" duration="515000" />
+    </task>
+    <task id="LOCAL-00018" summary="some more dummy data">
+      <option name="closed" value="true" />
+      <created>1710964679316</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710964679316</updated>
+    </task>
+    <task id="LOCAL-00019" summary="comment to cars">
+      <option name="closed" value="true" />
+      <created>1710965247305</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710965247305</updated>
+    </task>
+    <task id="LOCAL-00020" summary="comment to cars">
+      <option name="closed" value="true" />
+      <created>1711039972727</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711039972727</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Entities fixes">
+      <option name="closed" value="true" />
+      <created>1711042165505</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711042165505</updated>
+    </task>
+    <task id="LOCAL-00022" summary="@JsonBackReference import to LessonEntity">
+      <option name="closed" value="true" />
+      <created>1711042294244</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1711042294244</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Entity DB mirroring fix">
+      <option name="closed" value="true" />
+      <created>1711042948099</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1711042948099</updated>
+    </task>
+    <task id="LOCAL-00024" summary="StudentService">
+      <option name="closed" value="true" />
+      <created>1711044650619</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1711044650619</updated>
+    </task>
+    <task id="LOCAL-00025" summary="HotFix 1">
+      <option name="closed" value="true" />
+      <created>1711044737507</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1711044737507</updated>
+    </task>
+    <task id="LOCAL-00026" summary="feign client set for TrainerRepository">
+      <option name="closed" value="true" />
+      <created>1711045697267</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1711045697267</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added field PKK_NUMBER to student entity">
+      <option name="closed" value="true" />
+      <created>1711047209808</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1711047209808</updated>
+    </task>
+    <task id="LOCAL-00028" summary="TrainerEntityDto update">
+      <option name="closed" value="true" />
+      <created>1711048418686</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1711048418686</updated>
+    </task>
+    <task id="LOCAL-00029" summary="TrainerEntityDto update and TrainerEntityDto to TrainerEntity mapper">
+      <option name="closed" value="true" />
+      <created>1711048746397</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1711048746397</updated>
+    </task>
+    <task id="LOCAL-00030" summary="TrainerEntityDto update and TrainerEntityDto to TrainerEntity mapper">
+      <option name="closed" value="true" />
+      <created>1711049014135</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1711049014135</updated>
+    </task>
+    <task id="LOCAL-00031" summary=".">
+      <option name="closed" value="true" />
+      <created>1711049160268</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1711049160268</updated>
+    </task>
+    <task id="LOCAL-00032" summary="StudentEntity lessons set added">
+      <option name="closed" value="true" />
+      <created>1711387779444</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1711387779444</updated>
+    </task>
+    <task id="LOCAL-00033" summary="sms sending added">
+      <option name="closed" value="true" />
+      <created>1711392846749</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1711392846749</updated>
+    </task>
+    <task id="LOCAL-00034" summary="sms sending added">
+      <option name="closed" value="true" />
+      <created>1711396316407</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1711396316407</updated>
+    </task>
+    <task id="LOCAL-00035" summary="sms sending added">
+      <option name="closed" value="true" />
+      <created>1711396514124</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1711396514124</updated>
+    </task>
+    <task id="LOCAL-00036" summary="sms sending added">
+      <option name="closed" value="true" />
+      <created>1711396612307</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1711396612307</updated>
+    </task>
+    <task id="LOCAL-00037" summary="sms sending added">
+      <option name="closed" value="true" />
+      <created>1711397348370</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1711397348370</updated>
+    </task>
+    <task id="LOCAL-00038" summary="sms sending added">
+      <option name="closed" value="true" />
+      <created>1711470595707</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1711470595707</updated>
+    </task>
+    <task id="LOCAL-00039" summary="sms sending project rename">
+      <option name="closed" value="true" />
+      <created>1711470659551</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1711470659551</updated>
+    </task>
+    <task id="LOCAL-00040" summary="sms sending project rename">
+      <option name="closed" value="true" />
+      <created>1711470992044</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1711470992044</updated>
+    </task>
+    <task id="LOCAL-00041" summary="sms sending project rename">
+      <option name="closed" value="true" />
+      <created>1711471811468</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1711471811468</updated>
+    </task>
+    <task id="LOCAL-00042" summary="copied entities to appTrainer">
+      <option name="closed" value="true" />
+      <created>1711472157235</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1711472157235</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added studentMapper">
+      <option name="closed" value="true" />
+      <created>1711473761998</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1711473761998</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Student CRUD adeed">
+      <option name="closed" value="true" />
+      <created>1711481566083</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481566083</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Student CRUD adeed">
+      <option name="closed" value="true" />
+      <created>1711481587805</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481587806</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Student CRUD adeed">
+      <option name="closed" value="true" />
+      <created>1711481746059</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481746059</updated>
+    </task>
+    <task id="LOCAL-00047" summary="gitignore edit">
+      <option name="closed" value="true" />
+      <created>1711481781555</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481781555</updated>
+    </task>
+    <task id="LOCAL-00048" summary="gitignore edit">
+      <option name="closed" value="true" />
+      <created>1711481943355</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481943355</updated>
+    </task>
+    <task id="LOCAL-00049" summary="gitignore edit">
+      <option name="closed" value="true" />
+      <created>1711481965561</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1711481965561</updated>
+    </task>
+    <task id="LOCAL-00050" summary="gitignore edit">
+      <option name="closed" value="true" />
+      <created>1711482002394</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1711482002394</updated>
+    </task>
+    <task id="LOCAL-00051" summary="some tweaks">
+      <option name="closed" value="true" />
+      <created>1711482594266</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1711482594266</updated>
+    </task>
+    <task id="LOCAL-00052" summary="deleted target">
+      <option name="closed" value="true" />
+      <created>1711482853105</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1711482853105</updated>
+    </task>
+    <task id="LOCAL-00053" summary="testing getTrainers() and getStudentById() and fixing DB">
+      <option name="closed" value="true" />
+      <created>1712163480496</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1712163480497</updated>
+    </task>
+    <task id="LOCAL-00054" summary="finding student by email">
+      <option name="closed" value="true" />
+      <created>1712163878835</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1712163878835</updated>
+    </task>
+    <task id="LOCAL-00055" summary="trainer controller fixes, passrate fixes, mapper fixes">
+      <option name="closed" value="true" />
+      <created>1712166925113</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1712166925113</updated>
+    </task>
+    <task id="LOCAL-00056" summary="tests update">
+      <option name="closed" value="true" />
+      <created>1712167167390</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1712167167390</updated>
+    </task>
+    <task id="LOCAL-00057" summary="getting lessons by student">
+      <option name="closed" value="true" />
+      <created>1712168454772</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1712168454772</updated>
+    </task>
+    <task id="LOCAL-00058" summary="enum fix">
+      <option name="closed" value="true" />
+      <created>1712168566948</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1712168566948</updated>
+    </task>
+    <task id="LOCAL-00059" summary="lesson requesting">
+      <option name="closed" value="true" />
+      <created>1712170044921</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1712170044921</updated>
+    </task>
+    <task id="LOCAL-00060" summary="lesson requesting">
+      <option name="closed" value="true" />
+      <created>1712171339535</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1712171339535</updated>
+    </task>
+    <task id="LOCAL-00061" summary="lesson requesting">
+      <option name="closed" value="true" />
+      <created>1712245906936</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1712245906937</updated>
+    </task>
+    <task id="LOCAL-00062" summary="lesson requesting">
+      <option name="closed" value="true" />
+      <created>1712246608684</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1712246608684</updated>
+    </task>
+    <task id="LOCAL-00063" summary="lesson requesting">
+      <option name="closed" value="true" />
+      <created>1712252013454</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1712252013454</updated>
+    </task>
+    <task id="LOCAL-00064" summary="car service">
+      <option name="closed" value="true" />
+      <created>1712252473951</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1712252473952</updated>
+    </task>
+    <task id="LOCAL-00065" summary="LessonEntityDto added to fix lesson requesting response problem">
+      <option name="closed" value="true" />
+      <created>1712254107601</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1712254107601</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Lesson Updating with handling LessonNotFoundException">
+      <option name="closed" value="true" />
+      <created>1712255597522</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1712255597522</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HotFix 1" />
+    <MESSAGE value="feign client set for TrainerRepository" />
+    <MESSAGE value="added field PKK_NUMBER to student entity" />
+    <MESSAGE value="TrainerEntityDto update" />
+    <MESSAGE value="TrainerEntityDto update and TrainerEntityDto to TrainerEntity mapper" />
+    <MESSAGE value="." />
+    <MESSAGE value="StudentEntity lessons set added" />
+    <MESSAGE value="sms sending added" />
+    <MESSAGE value="sms sending project rename" />
+    <MESSAGE value="copied entities to appTrainer" />
+    <MESSAGE value="added studentMapper" />
+    <MESSAGE value="Student CRUD adeed" />
+    <MESSAGE value="gitignore edit" />
+    <MESSAGE value="some tweaks" />
+    <MESSAGE value="deleted target" />
+    <MESSAGE value="testing getTrainers() and getStudentById() and fixing DB" />
+    <MESSAGE value="finding student by email" />
+    <MESSAGE value="trainer controller fixes, passrate fixes, mapper fixes" />
+    <MESSAGE value="tests update" />
+    <MESSAGE value="getting lessons by student" />
+    <MESSAGE value="enum fix" />
+    <MESSAGE value="lesson requesting" />
+    <MESSAGE value="car service" />
+    <MESSAGE value="LessonEntityDto added to fix lesson requesting response problem" />
+    <MESSAGE value="Lesson Updating with handling LessonNotFoundException" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson Updating with handling LessonNotFoundException" />
+  </component>
+</project>
