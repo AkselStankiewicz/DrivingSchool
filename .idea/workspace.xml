@@ -63,57 +63,57 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus.executor": "Run",
-    "Maven.appAuth [clean].executor": "Run",
-    "Maven.appSchool [clean].executor": "Run",
-    "Maven.appSchool [install].executor": "Run",
-    "Maven.appSchool [validate].executor": "Run",
-    "Maven.appStudnet [clean].executor": "Run",
-    "Maven.appTextMessages [clean].executor": "Run",
-    "Maven.appTextMessages [verify].executor": "Run",
-    "Maven.eurekaServer [clean].executor": "Run",
-    "Maven.smsTest [clean].executor": "Run",
-    "Maven.zappSpareMicroServiceWaitingForItMoment [clean].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.AppAuthApplication.executor": "Run",
-    "Spring Boot.AppSchoolApplication (1).executor": "Run",
-    "Spring Boot.AppSchoolApplication.executor": "Run",
-    "Spring Boot.AppStudnetApplication.executor": "Run",
-    "Spring Boot.AppTrainerApplication.executor": "Run",
-    "Spring Boot.EurekaServerApplication.executor": "Run",
-    "Spring Boot.SmsTestApplication.executor": "Run",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SDA/Projekt-Koncowy/DrivingSchoolMenagmetSystem Backup",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TrainerServiceDiffblueTest.testGetTrainerByStatus.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.appAuth [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.appSchool [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.appSchool [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.appSchool [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.appStudnet [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.appTextMessages [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.appTextMessages [verify].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.eurekaServer [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.smsTest [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.zappSpareMicroServiceWaitingForItMoment [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AppAuthApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AppSchoolApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AppSchoolApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AppStudnetApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AppTrainerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SmsTestApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SDA/Projekt-Koncowy/DrivingSchoolMenagmetSystem Backup&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "h2"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;h2&quot;
     ],
-    "com.intellij.ide.scratch.LRUPopupBuilder$1/Change SQL Dialect": [
-      "H2"
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/Change SQL Dialect&quot;: [
+      &quot;H2&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -237,14 +237,7 @@
       <workItem from="1713382172464" duration="867000" />
       <workItem from="1713383050696" duration="1259000" />
       <workItem from="1713384321420" duration="648000" />
-    </task>
-    <task id="LOCAL-00023" summary="Entity DB mirroring fix">
-      <option name="closed" value="true" />
-      <created>1711042948099</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1711042948099</updated>
+      <workItem from="1713391595760" duration="127000" />
     </task>
     <task id="LOCAL-00024" summary="StudentService">
       <option name="closed" value="true" />
@@ -630,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713384946770</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="DrivingSchool">
+      <option name="closed" value="true" />
+      <created>1713391706480</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1713391706480</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
